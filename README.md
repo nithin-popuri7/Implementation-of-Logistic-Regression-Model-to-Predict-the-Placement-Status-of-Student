@@ -72,9 +72,9 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 
 ## Output:
-![github](nit.png)
-![github](nit1.png)
-![github](nit2.png)
+![github](n.png)
+![github](n1.png)
+![github](n2.png)
 ![github](nit3.png)
 ![github](nit4.png)
 ![github](nit5.png)
