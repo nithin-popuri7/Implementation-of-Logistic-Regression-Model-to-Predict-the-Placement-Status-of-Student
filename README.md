@@ -8,7 +8,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1.import pandas module.
+1.__mport pandas module.
 
 2.Read the required csv file using pandas.
 
